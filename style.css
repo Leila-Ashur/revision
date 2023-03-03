@@ -1,0 +1,41 @@
+.link{
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    float: right;
+    background-color: rgba(5, 90, 5, 0.39);
+    margin-right: 10%;
+    margin-top: 0%;
+
+}
+.part1{
+    display: flex;
+    gap: 50px;
+    
+}
+.image{
+    float: right;
+    margin-top: 30px;
+}
+.part2{
+    display: flex;
+    gap: 50px;
+}
+.part3{
+    display: flex;
+    gap: 50px;
+}
+.footer{
+    list-style-type: none;
+    color: white;
+    display: flex;
+    background-color: black;
+    
+}
+.mary li{
+    list-style-type: none;
+}
+.icon li{
+    list-style-type: none; 
+}
+
